@@ -9,10 +9,10 @@ BOXVIDRA is a computer Emulator with Xfce4 and Termux-desktop and Wine with Box8
 - **Change Wine, DXVK, Mesa**: Change the version of wine, dxvk and mesa at any time you want, with a huge and expanding library of the versions you need to improve performance and without imposing restrictions.
    
     - ## Contributors
-  - **Owner**: Agent 404
-  - **Co-owner**: Agent 301
-  - **Secondary Developer**: Agent 202
-  - **Script Developer**: DeathGhost
+  - **Owner**: chris klucik
+  
+    
+    
     
   ## Installation
 1.Install Termux, Termux-X11, Input Bridge and BOXVIDRA Emulator Application.
@@ -33,9 +33,9 @@ BOXVIDRA is a computer Emulator with Xfce4 and Termux-desktop and Wine with Box8
 ## Boxvidra Requirements
 
 - **Requirements**: Boxvidra Emulator requires the following specifications :
-  - RAM: 4 GB
-  - Storage: 10 GB
-  - Processor: Snapdragon 665 or higher
+  - RAM: 5 GB
+  - Storage: 6 GB
+  - Processor: Snapdragon 439 or higher and no mediatek
      
       - BOXVIDRA is designed to run smoothly on low-end processors while delivering optimal performance.
 BOXVIDRA is meticulously crafted with optimization for low-end hardware in mind. Here's how:
